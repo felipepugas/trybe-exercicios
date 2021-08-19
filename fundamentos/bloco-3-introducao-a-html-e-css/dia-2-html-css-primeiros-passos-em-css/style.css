@@ -1,0 +1,18 @@
+h1 {
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+p {
+    font-weight: 600px;
+    font-size: 3em;
+}
+ul {
+    background-color: cyan;
+}
+.parafixar1{
+    background-color: darkcyan;
+}
+body {
+    font-size: 16px;
+}
